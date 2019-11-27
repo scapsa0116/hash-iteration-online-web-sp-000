@@ -18,3 +18,4 @@ def age_appropriate_birthday(birthday_kids)
       puts "Happy Birthday #{kids_n}! You are now #{ages} years old! Happy Birthday #{kids_n}! You are now #{ages} years old! Happy Birthday #{kids_n}! You are now #{ages} years old!"
     end  
   end
+end
